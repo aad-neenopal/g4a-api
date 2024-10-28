@@ -1,0 +1,5 @@
+- [x] What is g4a api 
+- [x] what info we need example 
+- [x] use auth 2 to login 
+- [x] then get the info 
+- [ ] get google analytics data
